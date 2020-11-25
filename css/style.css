@@ -1,0 +1,64 @@
+body {
+  background-color: #EBFDFF;
+}
+li {
+  display: inline;
+  margin: 13px;
+  font-weight: 550;
+}
+
+.menu:hover {
+  color: #BCBCBC;
+}
+
+.menu {
+  transition: all 0.7s;
+}
+
+ul {
+    text-align: right;
+    margin: 40px;
+}
+
+a {
+  color: #666666;
+  text-decoration: none;
+}
+
+* {
+  font-family: Arial;
+}
+
+#baner {
+   height: 40%;
+   width: 100%;
+}
+
+footer {
+  text-align: center;
+  background-color: #86F8FC;
+  padding: 35px;
+  border-radius: 7px;
+  font-size: 20px;
+  color: gray;
+  margin-top: 15px;
+}
+
+.article-principal {
+
+}
+
+#section-principal {
+  display: grid;
+  grid-template-columns: 1fr 0.1fr 1fr 0.1fr 1fr;
+}
+
+
+
+h1 {
+  font-size: 250%;
+  text-align: center;
+  color: teal;
+  margin: 10px;
+  margin-top: 20px;
+}
