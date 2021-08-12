@@ -1,0 +1,62 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+}
+
+.campos-de-texto {
+  width:400px;
+  background:rgba(173, 179, 182, 0);
+  padding:50px;
+  margin:auto;
+  margin-top:50px;
+  border-radius:25px;
+  background-color:rgba(255, 255, 255, 0.5)
+}
+
+.input {
+  border-radius:4px;
+  border: 2px solid rgba(126, 69, 69, 0);
+  width: 100%;
+  margin:auto;
+  margin-bottom:8px;
+  padding:2%;
+  border-bottom-color: rgb(143, 143, 143);
+  background-color:rgba(128, 128, 128, 0);
+}
+
+input {
+  display:block;
+  margin-top:15px;
+}
+
+body {
+  background-image: url(https://i.postimg.cc/RhyNwWH7/forest-3622519-1920.jpg);
+  background-repeat: no-repeat;
+}
+
+button {
+  padding:3px;
+  margin: 8px;
+  border: 2px double rgb(228, 228, 228);
+  border-radius: 4px;
+  background-color:rgb(255, 255, 255);
+  font-family: arial;
+  color:rgb(85, 85, 85);
+}
+
+p {
+  font-family:arial;
+  font-size: 14px;
+  color: rgb(85, 85, 85);
+}
+
+#check {
+  margin: 10px;
+  margin-left:0px;
+}
+
+img {
+  width: 40%;
+  margin-left:30%;
+}
